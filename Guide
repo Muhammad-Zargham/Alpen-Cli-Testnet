@@ -1,0 +1,8 @@
+alpen-testnet-guide/
+├── README.md # This file (polished for GitHub)
+├── LICENSE # MIT (suggested)
+├── .gitignore
+└── scripts/
+├── setup.sh # Install dependencies & Alpen CLI
+├── daily.sh # Safe, configurable daily tasks runner
+└── cleanup.sh # Optional: remove scripts or sensitive files locally
